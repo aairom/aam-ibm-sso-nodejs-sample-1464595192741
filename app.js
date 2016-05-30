@@ -1,3 +1,4 @@
+/*eslint-env express, node*/
 // Licensed under the Apache License. See footer for details.
 var express = require('express');
 var passport = require('passport');
