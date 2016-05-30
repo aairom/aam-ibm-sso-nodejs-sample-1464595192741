@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: aam-ibm-sso-nodejs-sample
+  host: aam-ibm-sso-nodejs-sample
+  disk_quota: 1024M
